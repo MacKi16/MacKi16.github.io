@@ -1,0 +1,26 @@
+<p {
+    color: red;
+    background-color: #ffffff;
+    border-color: blue;
+    border-width: thick;  
+  }
+h1 {
+    font-size: 16px;
+    font-family: Helvetica;
+    color: blue;
+    }
+    ul { 
+        list-style-image: url(star.svg);
+        color:blue;
+    
+    }
+p {
+    font-family: Arial;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+div {
+    background-color: beige;
+    border-color: black;    
+}
